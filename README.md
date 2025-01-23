@@ -1,2 +1,2 @@
 # CE_AGC
-Source code for the work "Approximate Gradient Coding Using Convex Optimization" 
+Source code for the work "Communication-Efficient Approximate Gradient Coding Using Structured Matrices" 
