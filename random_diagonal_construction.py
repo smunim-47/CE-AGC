@@ -8,7 +8,7 @@ import itertools
 
 
 
-A= np.load('BIBD91.npy')
+A = np.load('BIBD91.npy')
 
 
 
