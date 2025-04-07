@@ -68,7 +68,7 @@ for i in range(len(s_list)):
             c = 0
             for j in range(itr):
                     #print(i,j)
-                    np.random.seed(j+k)
+                    np.random.seed(j+78)
                     random_non_stragglers = np.random.choice(np.arange(0, n_w), int(n_w-s_list[i]), replace=False)
                     random_non_stragglers = np.sort(random_non_stragglers)
                     E_F_1 = E1[:, random_non_stragglers]
